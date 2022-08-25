@@ -1,0 +1,182 @@
+*{
+    padding: 0px ;
+    margin: 0px ;
+box-sizing: border-box;
+}
+.navbar-expand-lg .navbar-collapse {
+
+    justify-content: end;
+}.btn-outline-success {
+
+    background: #94c341;
+    color: white;
+    margin-right: 30px;
+}
+.logo {
+    float: left;
+}.logo-2 {
+    float: right;
+}
+.mani {
+    padding-top: 81px;
+   
+}
+button {
+    background: #94c341;
+    color: white;
+    text-transform: uppercase;
+    padding: 8px 25px 8px 25px;
+    border-radius: 27px;
+    border: none;
+}
+.content {
+    /* justify-content: center; */
+    margin: auto;
+    text-align: center;
+}
+.content {
+    /* justify-content: center; */
+    margin: auto;
+    max-width: 600px;
+    padding-top: 127px;
+    padding-bottom: 200px;
+    text-align: center;
+}span {
+    color: #ffff;
+    margin-bottom: 20px;
+    font-family: "Josefin Sans",sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+}
+.content h2 {
+    color:#ffff;
+    text-transform: capitalize;
+    font-family: "Roboto Slab",serif;
+ 
+    font-weight: 500;
+}p.text {
+    color: #ffff;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+section.img-1 {
+    background-image: url(https://htmldemo.net/organicfood/p2/img/organicfood/bg.jpg);
+    background-attachment: fixed;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 1;
+}
+h1.page {
+    color: #293155;
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+
+.card h4 {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 22px;
+}
+.card {
+    
+    box-shadow: 0 0 15px rgb(0 0 0 / 15%);
+    border: none;
+}
+section.section-2 {
+    padding-top: 120px;
+}
+.card {
+    margin-bottom: 30px;
+}
+.icon {
+    float: left;
+    color: #94c341;
+    font-size: 39px;
+}
+.text-3 {
+    padding-left: 54px;
+}p.works {
+    font-weight: 400;
+    font-size: 16px;
+}
+.text-3 {
+    padding-left: 54px;
+    padding-top: 13px;
+}
+
+h3.desing {
+    font-size: 18px;
+    font-weight: unset;
+    padding-bottom: 12px;
+}
+.icon-1 {
+    margin-bottom: 50px;
+}
+
+section.section-4 {
+    background-color: #f6f6f6;
+    padding: 50px 0px;
+}
+section.section-3 {
+    padding-top: 150px;
+}
+.card-text h4 {
+    font-size: 16px;
+    color: #3f3f3f;
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.card-5 {
+    display: inline-block;
+    width: 20%;
+    overflow: hidden;
+}
+.container-fluid {
+    padding: 8px;
+}
+button.buy {
+    width: 139px;
+    height: 43px;
+  background-color:#94c341;
+  position: relative;
+  animation-name: example;
+  animation-duration: 4s;
+  animation-iteration-count: 3;}
+
+
+@keyframes example {
+    0%   {background-color:red; top:0px;}
+    25%  {background-color:yellow;  top:0px;}
+    50%  {background-color:blue;  top:200px;}
+    75%  {background-color:green;  top:200px;}
+100% {background-color:red;  top:0px;}
+  }
+
+  .vanshu {
+    width: 50%;
+    color:white;
+    float: left;
+    align-items: center;
+    /* justify-content: end; */
+    display: flex;
+}
+  a.pal {
+    color:white;
+    padding: 10px;
+}
+.rohit-pal {
+    display: flex;
+    width: 50%;
+    color: white;
+    justify-content: end;
+    align-items: center;
+}
+i.fa.fa-envelope {
+    padding-right: 19px;
+    color: white;
+}
