@@ -27,7 +27,7 @@ li.nav-item {
 }
 
 section.img-1 {
-  background-image: url(/img/slider-1.jpg);
+  background-image: url(img/slider-1.jpg);
   padding: 240px 0px;
   background-repeat: no-repeat;
   background-position: center;
@@ -122,7 +122,7 @@ span.close {
 }
 
 section.img-2 {
-  background-image: url(/img/bg-1.jpg);
+  background-image: url(img/bg-1.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -253,7 +253,7 @@ h3.tempor {
 }
 
 section.img-6 {
-  background-image: url(/img/bg-1.jpg);
+  background-image: url(img/bg-1.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
